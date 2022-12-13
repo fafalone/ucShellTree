@@ -1,9 +1,9 @@
 # ucShellTree
 Shell TreeView Control for twinBASIC (x64 compatible), ported from VB6 version.
 
-#Experimental
+# Experimental
 
-This version is for alpha testing only; it's not meant as a general public release intended for normal use.
+### This version is for alpha testing only; it's not meant as a general public release intended for normal use.
 
 User control support in twinBASIC is brand new and a work in progress, and this control is complex and a lot of testing still needs to be done. But it's basically working, so I'm posting a preview for people to check out.
 
