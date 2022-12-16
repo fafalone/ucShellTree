@@ -1,5 +1,5 @@
 # ucShellTree v2.8
-Shell TreeView Control for twinBASIC (x64 compatible), ported from VB6 version.
+Shell TreeView Control for twinBASIC (x64 compatible), ported [from VB6 version](http://www.vbforums.com/showthread.php?862137-VB6-ucShellTree-Full-featured-Shell-Tree-UserControl).
 
 ![image](https://user-images.githubusercontent.com/7834493/208004027-283c2d98-aee1-4da8-8fd2-ffebd676414e.png)
 
