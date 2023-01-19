@@ -1,3 +1,5 @@
+# This repository has been combined with ucShellBrowse into [ShellControls](https://github.com/fafalone/ShellControls)
+
 # ucShellTree v2.8
 Shell TreeView Control for twinBASIC (x64 compatible), ported [from VB6 version](http://www.vbforums.com/showthread.php?862137-VB6-ucShellTree-Full-featured-Shell-Tree-UserControl).
 
